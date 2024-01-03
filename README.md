@@ -2,7 +2,7 @@
 
 ## Overview
 
-In this week we will learn a bit moreabout audio handlers in flutter. We will learn how to play audio files, how to record audio and how to use the microphone.
+In this week we will learn a bit more about audio handlers in flutter. We will learn how to play audio files, how to record audio and how to use the microphone.
 
 ## Objectives
 
